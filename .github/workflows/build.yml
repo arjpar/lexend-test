@@ -2,8 +2,6 @@ name: Build Fonts
 
 on: 
   push:
-    branches: 
-    - main
     paths:
     - sources/**
   pull_request:
