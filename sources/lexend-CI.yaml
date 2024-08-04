@@ -1,5 +1,5 @@
     sources:
-      - Lexend.glyphspackage
+      - Lexend.glyphspackage/glyphs
     familyName: Lexend
     outputDir: ../fonts/CI
     buildStatic: False
