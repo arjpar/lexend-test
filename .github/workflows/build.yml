@@ -1,14 +1,6 @@
 name: Build Fonts
 
-on: 
-  push:
-    paths:
-    - sources/**
-  pull_request:
-    branches: 
-    - main
-    paths:
-    - sources/**
+on: [push]
 
 jobs:
   static-font-ci-job:
